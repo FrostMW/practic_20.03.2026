@@ -10,5 +10,8 @@ main {
     font-family: sans-serif;
 }
 h1 {
-    height: 512px; 
+    height: 412px; 
+    background-color: bisque;
+    background-image: url(./assets/images/60423972b0a20.jpg);
+    padding-top: 100px;
 }
