@@ -1,0 +1,14 @@
+.centre {
+    text-align: center;
+}
+main {
+    width: 70%;
+    margin: auto;
+}
+.text-color {
+    color: blue;
+    font-family: sans-serif;
+}
+h1 {
+    height: 512px; 
+}
